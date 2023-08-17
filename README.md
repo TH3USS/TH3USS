@@ -2,6 +2,7 @@
 
 ### Olá, sou o Matheus! 😄
 Amante da tecnologia, entusiasta daquilo que não se sabe, por que não aprender algo de novo hoje?
+
 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, minha paixão é a programação, meu passatempo, a robótica, e estou sempre de braços abertos para abraçar novas experiências!
 
 ![Currículo](https://img.shields.io/website?label=Currículo&style=for-the-badge&url=https://th3uss.github.io/resume/)
