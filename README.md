@@ -4,11 +4,11 @@
 
 <div align="center">
   
-👨‍💻 Amante da tecnologia
+👨‍💻 Technology lover
 
-💬 Entusiasta daquilo que não se sabe
+💬 Enthusiast of what isn't known
 
-❓ Por que não aprender algo de novo hoje?
+❓ Why don't learn something new today?
 
 <div align="center"> 
   <a href="mailto:contato.matheusramossilva2003@gmail.com">
@@ -34,20 +34,20 @@
 
 <div align="center">
 
-## 💾 Tecnologias que uso no meu dia 
+## 💾 Technologies I use in my day
 
 ![My Skills](https://skillicons.dev/icons?i=cs,java,html,css,js,c,cpp)
 
 
-## 🛠 Ferramentas que uso
+## 🛠 Tools I use
 
 ![My Skills](https://skillicons.dev/icons?i=arduino,figma,git,github,ai,ps,unity,visualstudio,vscode)
 
 <hr/>
   
-## 🚀 Sobre mim
+## 🚀 About me
 
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, minha paixão é a programação, meu passatempo, a robótica, e estou sempre de braços abertos para abraçar novas experiências!
+I'm currently a Systems Analysis and Development student, my passion is programming, my hobby is robotics, and I'm always open to embrace new experiences!
 
 <div/>
 <hr/>
