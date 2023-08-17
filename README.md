@@ -1,11 +1,18 @@
 
-#### Olá, sou o Matheus! 😄
+### Olá, sou o Matheus! 😄
 Amante da tecnologia, entusiasta daquilo que não se sabe, por que não aprender algo de novo hoje?
 
 ## 🚀 Sobre mim
 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, minha paixão é a programação, meu passatempo, a robótica, e estou sempre de braços abertos para abraçar novas experiências!
 
 ![Currículo](https://img.shields.io/website?label=Currículo&style=for-the-badge&url=https://th3uss.github.io/resume/)
+
+### Contatos
+
+[![Currículo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ra/)
+[![Currículo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](...)
+[![Currículo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](...)
+[![Currículo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](...)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TH3USS&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH3USS&layout=compact)
@@ -36,10 +43,3 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, minha paixã
 ![Currículo](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
-
-### Contatos
-
-[![Currículo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ra/)
-[![Currículo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](...)
-[![Currículo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](...)
-[![Currículo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](...)
