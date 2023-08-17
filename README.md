@@ -8,7 +8,7 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, minha paixã
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TH3USS&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TH3USS&layout=compact)
-
+<div align=left>
 ## 🛠 Ferramentas que uso
 
 ![Currículo](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -19,7 +19,8 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, minha paixã
 ![Currículo](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)
 ![Currículo](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Currículo](https://img.shields.io/website?label=Currículo&style=for-the-badge&url=https://th3uss.github.io/resume/)
-
+</div>
+<div align=right>
 ## Tecnologias que uso no meu dia 👨‍💻
 
 ![Currículo](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -35,7 +36,7 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, minha paixã
 ![Currículo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Currículo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
+</div>
 ### Contatos
 
 [![Currículo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](...)
