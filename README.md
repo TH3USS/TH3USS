@@ -33,6 +33,7 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, minha paixã
 ![Currículo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Currículo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+</div>
 
 ## 🛠 Ferramentas que uso
 
@@ -45,5 +46,3 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, minha paixã
 ![Currículo](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Currículo](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)
 ![Currículo](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-</div>
