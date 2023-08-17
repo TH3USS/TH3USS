@@ -14,16 +14,16 @@
   <a href="mailto:contato.matheusramossilva2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-ra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://th3uss.github.io/resume/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="" target="_blank">
+  <a href="https://discord.com/channels/@TH3USS#3189" target="_blank">
      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.instagram.com/cosmo_theus.2003/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   
@@ -36,12 +36,12 @@
 
 ## 💾 Technologies I use in my day
 
-![My Skills](https://skillicons.dev/icons?i=cs,java,html,css,js,c,cpp)
+![My Technologies](https://skillicons.dev/icons?i=cs,java,html,css,js,c,cpp)
 
 
 ## 🛠 Tools I use
 
-![My Skills](https://skillicons.dev/icons?i=arduino,figma,git,github,ai,ps,unity,visualstudio,vscode)
+![My Tools](https://skillicons.dev/icons?i=arduino,figma,git,github,ai,ps,unity,visualstudio,vscode)
 
 <hr/>
   
