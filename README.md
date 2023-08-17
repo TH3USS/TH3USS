@@ -23,7 +23,7 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, minha paixã
 
 <div align=center>
   
-## Tecnologias que uso no meu dia 👨‍💻
+# Tecnologias que uso no meu dia 👨‍💻
 
 ![Currículo](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Currículo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
