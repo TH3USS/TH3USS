@@ -33,13 +33,6 @@
 <hr/>
 
 <div align="center">
-  
-## 🚀 Sobre mim
-
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, minha paixão é a programação, meu passatempo, a robótica, e estou sempre de braços abertos para abraçar novas experiências!
-
-<div/>
-<hr/>
 
 ## 💾 Tecnologias que uso no meu dia 
 
@@ -50,8 +43,13 @@ Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, minha paixã
 
 ![My Skills](https://skillicons.dev/icons?i=arduino,figma,git,github,ai,ps,unity,visualstudio,vscode)
 
+<hr/>
+  
+## 🚀 Sobre mim
 
-</div>
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, minha paixão é a programação, meu passatempo, a robótica, e estou sempre de braços abertos para abraçar novas experiências!
+
+<div/>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
