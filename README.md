@@ -38,7 +38,7 @@
 
 ## 🛠 Tools I use
 
-![My Tools](https://skillicons.dev/icons?i=arduino,figma,git,github,ai,ps,unity,visualstudio,vscode)
+![My Tools](https://skillicons.dev/icons?i=visualstudio,vscode,github,git,figma,arduino,ai,ps,unity,)
 
 <hr/>
   
