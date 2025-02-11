@@ -33,7 +33,7 @@
 
 ## 💾 Technologies I use in my day
 
-![My Technologies](https://skillicons.dev/icons?i=cs,java,html,css,js,c,cpp)
+![My Technologies](https://skillicons.dev/icons?i=cs,html,css,js,react,python,c)
 
 
 ## 🛠 Tools I use
@@ -44,7 +44,7 @@
   
 ## 🚀 About me
 
-I'm currently a Systems Analysis and Development student, my passion is programming, my hobby is robotics, and I'm always open to embrace new experiences!
+I'm currently a FullStack Engineer and a Systems Analysis and Development student, my passion is programming, my hobby is robotics, and I'm always open to embrace new experiences!
 
 <div/>
 <hr/>
